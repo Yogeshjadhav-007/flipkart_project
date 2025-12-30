@@ -5,11 +5,42 @@
 }
 .para{
     text-decoration: solid;
-    text-align: left;
     margin-right: 60px;
     font-size: 17px;
 }
 .img_sl{
+    
     height: 450px;
     width: 1200px;
+}
+.b_color{
+    margin-left: 26%;
+    color: darkred;
+    margin-bottom: 0px;
+    font-style:oblique;
+}
+.c_color{
+    text-align: center;
+    color: black;
+    margin-bottom: 0px;
+    font-style:oblique;
+    
+}
+.d_color{
+    text-align: center;
+    color: darkblue;
+    margin-bottom: 0px;
+    font-style:oblique;
+    margin-right: 500px;
+}
+.e_color{
+    text-align: center;
+    color: white;
+    margin-bottom: 0px;
+    font-style:oblique;
+    margin-right: 500px;
+}
+.img_size{
+    height:450px ;
+    width: 100px;
 }
