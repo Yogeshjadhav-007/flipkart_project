@@ -1,0 +1,15 @@
+.img_siz{
+    height: 90px;
+    width: 90px;
+    
+}
+.para{
+    text-decoration: solid;
+    text-align: left;
+    margin-right: 60px;
+    font-size: 17px;
+}
+.img_sl{
+    height: 450px;
+    width: 1200px;
+}
